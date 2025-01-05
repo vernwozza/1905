@@ -1,0 +1,15 @@
+{
+    "name": "The1905.club",
+    "short_name": "1905",
+    "start_url": "https://www.the1905.club/",
+    "display": "standalone",
+    "background_color": "#160b47",
+    "theme_color": "#160b47",
+    "icons": [
+        {
+            "src": "https://cdn.prod.website-files.com/67439b70290d8a78c5a9c043/677b037d379cb4be79f666c0_1905merged-p-500.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
