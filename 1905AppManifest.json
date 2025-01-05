@@ -1,0 +1,20 @@
+{
+    "name": "The1905.club",
+    "short_name": "1905",
+    "start_url": "https://www.the1905.club/",
+    "display": "standalone",
+    "background_color": "#160b47",
+    "theme_color": "#160b47",
+    "icons": [
+        {
+            "src": "https://cdn.prod.website-files.com/67439b70290d8a78c5a9c043/677add8cc3fd79abb231aee1_1905_Icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.prod.website-files.com/67439b70290d8a78c5a9c043/677adcbad779b072c49fc73a_1905_Icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
