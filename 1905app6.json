@@ -1,0 +1,22 @@
+{
+    "name": "The1905.club",
+    "short_name": "1905",
+    "start_url": "https://www.the1905.club/",
+    "display": "standalone",
+    "background_color": "#160b47",
+    "theme_color": "#160b47",
+    "icons": [
+        {
+            "src": "https://vernwozza.github.io/1905/Background.png",
+            "sizes": "432x432",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://vernwozza.github.io/1905/Foregroun.png",
+            "sizes": "432x432",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
